@@ -5,14 +5,14 @@ Repo for Project_2_ETL
 Challenge: A friend has an extensive collection of video games and has asked for help setting a website to display them (and maybe sell them later). For now he has sent a list of 228 of his favorites to see if I can develop a method to gather possible web-page elements for each game to begin automating creation of the pages.
 
 For each game, the following elements were extracted from the data source using the method listed:
--Release Year (imported from given csv)
--Title (imported from given csv)
--Publisher (imported from given csv)
--Platform (imported from given csv)
--Release Details (Web scraped, Wikipedia)
--Game Standard/Box's Cover Image (Web scraped, Wikipedia)
--Description of the Gameplay (API Calls, RAWG.io)
--Gameplay Screenshot URLs (API Calls, RAWG.io)
+*Release Year (imported from given csv)
+*Title (imported from given csv)
+*Publisher (imported from given csv)
+*Platform (imported from given csv)
+*Release Details (Web scraped, Wikipedia)
+*Game Standard/Box's Cover Image (Web scraped, Wikipedia)
+*Description of the Gameplay (API Calls, RAWG.io)
+*Gameplay Screenshot URLs (API Calls, RAWG.io)
 
 The data was cleaned/quality checked to validate the method and then imported to cloud-based MongoDB for future use in creating the site.
 
