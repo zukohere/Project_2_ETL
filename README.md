@@ -19,8 +19,6 @@ The data was aggregated into a pandas dataframe, cleaned/quality checked to vali
 ## MongoDB Screenshot
 ![DB_Screenshot](MongoDB_Screenshot.png)
 
-![Super_Mario_Cart_Cover](https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Supermariokart_box.JPG/220px-Supermariokart_box.JPG)
-
 ## Cover Art (source Wikipedia)
 
 ![Super_Mario_Cart_Cover](https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Supermariokart_box.JPG/220px-Supermariokart_box.JPG)
