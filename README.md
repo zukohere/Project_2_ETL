@@ -14,7 +14,7 @@ For each game, the following elements were extracted from the data source using 
 * Description of the Gameplay (API Calls, RAWG.io)
 * Gameplay Screenshot URLs (API Calls, RAWG.io)
 
-The data was cleaned/quality checked to validate the method and then imported to cloud-based MongoDB for future use in creating the site.
+The data was aggregated into a pandas dataframe, cleaned/quality checked to validate the method and then loaded to cloud-based MongoDB for future use in creating the site.
 
 ## Cover Art (source Wikipedia)
 
