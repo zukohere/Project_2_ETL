@@ -13,6 +13,6 @@ Repo for Project_2_ETL
 
 ![Super_Mario_Cart_Screenshot_1](https://media.rawg.io/media/screenshots/ca2/ca2f8c6488f8204c9f6371043a8e3414.jpg)
 
-![Super_Mario_Cart_Screenshot_2](https://media.rawg.io/media/screenshots/493/493742e0cb9b14d2a36cbba7ad5d307d.jpg)
+![Super_Mario_Cart_Screenshot_2](https://media.rawg.io/media/screenshots/971/971f8d29b7babb8955823b02e7ebb1d9.jpg)
 
-![Super_Mario_Cart_Screenshot_3](https://media.rawg.io/media/screenshots/69f/69fdaf5db2cd233001ae795e538de9c8.jpg)
+![Super_Mario_Cart_Screenshot_3](https://media.rawg.io/media/screenshots/3fe/3fe623feeb8cf55a25845d56522c877e.jpg)
