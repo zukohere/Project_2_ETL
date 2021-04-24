@@ -31,3 +31,21 @@ The data was aggregated into a pandas dataframe, cleaned/quality checked to vali
 ![Super_Mario_Cart_Screenshot_2](https://media.rawg.io/media/screenshots/971/971f8d29b7babb8955823b02e7ebb1d9.jpg)
 
 ![Super_Mario_Cart_Screenshot_3](https://media.rawg.io/media/screenshots/3fe/3fe623feeb8cf55a25845d56522c877e.jpg)
+
+
+## Requirements
+* Recommended Browser: Google Chrome
+### Libraries
+* from splinter import Browser
+* from bs4 import BeautifulSoup
+* from webdriver_manager.chrome import ChromeDriverManager
+* import pandas as pd
+* import time
+* import requests
+* import json
+* import pymongo
+* from pymongo import MongoClient
+* pip install dnspython
+* import sys
+### API Keys
+* https://rawg.io/apidocs 
