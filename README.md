@@ -35,17 +35,24 @@ The data was aggregated into a pandas dataframe, cleaned/quality checked to vali
 
 ## Requirements
 * Recommended Browser: Google Chrome
+* python/jupyter notebook
+* MongoDB
 ### Libraries
+Web-scraping
 * from splinter import Browser
 * from bs4 import BeautifulSoup
 * from webdriver_manager.chrome import ChromeDriverManager
-* import pandas as pd
 * import time
+Dataframe
+* import pandas as pd
+API Calls
 * import requests
 * import json
+MongoDB
 * import pymongo
 * from pymongo import MongoClient
 * pip install dnspython
+Credential Management
 * import sys
 ### API Keys
 * https://rawg.io/apidocs 
