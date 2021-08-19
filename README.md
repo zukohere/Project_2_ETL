@@ -1,5 +1,4 @@
-# Project_2_ETL
-Repo for Project_2_ETL
+# Video Game Library Extract Transfer Load
 
 # Video Game "Collection"
 Challenge: A friend has an extensive collection of video games and has asked for help setting a website to display them (and maybe sell them later). For now he has sent a list of 228 of his favorites to see if I can develop a method to gather possible web-page elements for each game to begin automating creation of the pages.
